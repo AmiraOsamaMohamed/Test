@@ -1,0 +1,48 @@
+input, textarea {
+    padding: 15px;
+    
+    margin: 10px 0px 15px 0px;
+    border: solid 1px #bc88e4;
+    outline: 0;
+    font: normal 15px/100% Verdana, Tahoma, sans-serif;
+    width: 100%;
+    background: #cccedf;
+    border-radius: 20px;
+    -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+label {
+    margin-left: 20px;
+    color: #725cbb;
+}
+
+button, input[type="submit"] {
+    width: auto;
+    padding: 9px 15px;
+    background:  rgba(55, 2, 67, 0.454);
+    border: 0;
+    font-size: 13px;
+    color: #FFFFFF;
+    margin-left: 45%;
+    margin-top: 10px;
+    border-radius: 20px;
+    
+}
+.submit :hover{
+    color:rgb(147, 68, 8);
+}
+
+.form{
+    margin-bottom: 10px;
+
+    padding: 30px;
+    height: 100%;
+  
+}
+h2{
+    
+    margin-top: 0px;
+    text-decoration:underline;
+    margin-left: 45%;
+}
+

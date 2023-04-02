@@ -1,0 +1,14 @@
+.home-page{
+    margin: 50px;
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   flex-direction: row;
+  
+}
+.home-page .jop-card{
+    width: 20%;
+    margin:20px;
+    margin-bottom: 20px;
+ 
+}
